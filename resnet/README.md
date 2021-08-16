@@ -1,7 +1,7 @@
 Resnet_paper
 ==============================
 
-implementation of resnet paper using pytorch
+This Repo contains my implementation of resnet paper using pytorch.Part of AMMI Bootcamp 2021.
 
 Project Organization
 ------------
@@ -53,5 +53,4 @@ Project Organization
 
 
 --------
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+--------
