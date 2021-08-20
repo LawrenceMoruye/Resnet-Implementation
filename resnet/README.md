@@ -2,21 +2,24 @@ Resnet_paper
 ==============================
 
 
-This Repo contains my implementation of resnet paper using pytorch as Part of AMMI Bootcamp 2021.The implementation is still ongoing and I have so far carried out 2 expernments   on two environments(Colab and Kaggle) using jupyter notebooks. My progress presentation today(20th August 2021) is based on those 2 expernments as I work on my final script.we
+This Repo contains my implementation of resnet paper using pytorch as Part of AMMI Bootcamp 2021.The implementation is still ongoing and I have so far carried out 2 expernments   on two environments(Colab and Kaggle) using jupyter notebooks. My progress presentation today(20th August 2021) is based on those 2 expernments as I work on my final script.
 <div align="center">
 <p>Paper Name:</>
     <a href="https://arxiv.org/pdf/1512.03385.pdf">Deep Residual Learning for Image Recognition</a>
 </div>  
 <div align="center">
 <p>First Experinment on Colab</p>
-    <p>notebooks/1.0_Lawrence_Moruye_resnet_paper.ipynb</p>
+    <a href="https://github.com/LawrenceMoruye/Resnet-Implementation/blob/main/resnet/notebooks/1.0_Lawrence_Moruye_resnet_paper.ipynb">Notebook1</a>
 </div>
 <div align="center">
     <p>2nd Experinment on Kaggle kernels</p>
-    <p>notebooks/2.0-lawrence-resnet-baseline.ipynb</p>
+    <a href="https://github.com/LawrenceMoruye/Resnet-Implementation/blob/main/resnet/notebooks/2.0-lawrence-resnet-baseline.ipynb">Notebook2</a>
+</div>
+<div align="center">
+<p>3.my  presentyation</p>
+    <a href="https://github.com/LawrenceMoruye/Resnet-Implementation/blob/main/resnet/reports/presentation_deck.pdf"> Presentation</a>
 </div>
 
-What is Ongoing?:In the process of finalizing the scripts based on the expernments performed on the 2 notebooks above.
 
 Project Organization
 ------------
