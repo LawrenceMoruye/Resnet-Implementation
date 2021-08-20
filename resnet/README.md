@@ -1,7 +1,7 @@
 Resnet_paper
 ==============================
 
-This Repo contains my implementation of resnet paper using pytorch.Part of AMMI Bootcamp 2021.
+This Repo contains my implementation of resnet paper using pytorch.Part of AMMI Bootcamp 2021.we
 
 Project Organization
 ------------
